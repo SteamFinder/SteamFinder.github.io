@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
-    <title>懂点啥KnowWhat?</title>
-    <updated>2020-04-14T22:06:48.049Z</updated>
+    <title>懂点儿啥?</title>
+    <updated>2020-04-14T23:08:48.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
-    <subtitle>懂点啥，不懂点啥，不知道</subtitle>
+    <subtitle>懂点儿啥?真懂还是被带节奏？本小站的时评可能会让你有所收获。</subtitle>
     <logo>https://steamfinder.github.io/images/avatar.png</logo>
     <icon>https://steamfinder.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 懂点啥KnowWhat?</rights>
+    <rights>All rights reserved 2020, 懂点儿啥?</rights>
     <entry>
         <title type="html"><![CDATA[第一篇文章]]></title>
         <id>https://steamfinder.github.io/post/di-yi-pian-wen-zhang/</id>
@@ -26,48 +26,28 @@
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+<p>懂点儿啥？分享我个人的时评！</p>
 </blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>发表个我个人的时评以及一些奇奇怪怪的玩意</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>SteamFinder</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>CS:GO</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>steamfinder@foxmail.com</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://steamfinder.github.io/post/hello-gridea/</id>
-        <link href="https://steamfinder.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<h2 id="关于本站">关于本站</h2>
+<p>每当谈论天下大事，我们或多或少都受到媒体，朋友，家长，老师，公知，带路党等的影响<br>
+<strong>我们独立思考了吗？</strong><br>
+媒体和他人等不能决定你怎么思考，而能决定你思考什么，即提前给你设置了“思考议程”<br>
+21世纪，我们的社会高速发展，信息化，全球化，世界多极化和一系列的世界面貌改变，都印证的我们所处于“百年未有之大变局”。更不能盲从媒体，一味的“从众”，更多的，我们要有自己的独立思考。<br>
+独立思考不是从众，更不是“众人皆醉我独醒”，而是在拥有良好的价值观，人生观，世界观的前提下，<br>
+在爱国的基础上进行思考。<br>
+没有绝对客观，绝对客观也是百害无穷<br>
+本博客发表我个人的见解，各位可以跟随我的文章，充实自己，并且进行思考。</p>
+<h2 id="博主是谁">博主是谁</h2>
+<p>SteamFinder<br>
+衡水二中在读学生<br>
+新高考纯文（历史-地理-政治） 即文科生</p>
+<h2 id="兴趣爱好">兴趣爱好</h2>
+<p>关心国内外大事 打游戏 看番剧 钻研电脑 偶尔玩玩C++<br>
+##为什么是文科<br>
+一开始我的梦想是阿里等企业，但我发现理科我真的烦，对文科的喜爱让我选择了他<br>
+许多人说学好数理化，走遍全天下，但我认为在当今的时代下，学好数理化不够，当今生存问题早已被解决，而目前世界暗流涌动，没有理论保护自己也只能沦为被人利用的棋子。</p>
+<h2 id="联系我呀">联系我呀</h2>
+<p>steamfinder#foxmail.com</p>
 ]]></content>
     </entry>
 </feed>
