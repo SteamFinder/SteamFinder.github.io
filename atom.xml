@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://taiga.ink</id>
+    <id>https://steamfinder.github.io</id>
     <title>懂点啥KnowWhat?</title>
-    <updated>2020-04-14T22:05:26.924Z</updated>
+    <updated>2020-04-14T22:05:46.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://taiga.ink"/>
-    <link rel="self" href="https://taiga.ink/atom.xml"/>
+    <link rel="alternate" href="https://steamfinder.github.io"/>
+    <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
     <subtitle>懂点啥，不懂点啥，不知道</subtitle>
-    <logo>https://taiga.ink/images/avatar.png</logo>
-    <icon>https://taiga.ink/favicon.ico</icon>
+    <logo>https://steamfinder.github.io/images/avatar.png</logo>
+    <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懂点啥KnowWhat?</rights>
     <entry>
         <title type="html"><![CDATA[第一篇文章]]></title>
-        <id>https://taiga.ink/post/di-yi-pian-wen-zhang/</id>
-        <link href="https://taiga.ink/post/di-yi-pian-wen-zhang/">
+        <id>https://steamfinder.github.io/post/di-yi-pian-wen-zhang/</id>
+        <link href="https://steamfinder.github.io/post/di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-04-14T11:03:46.000Z</updated>
         <content type="html"><![CDATA[<p>这是一个测试</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://taiga.ink/post/about/</id>
-        <link href="https://taiga.ink/post/about/">
+        <id>https://steamfinder.github.io/post/about/</id>
+        <link href="https://steamfinder.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://taiga.ink/post/hello-gridea/</id>
-        <link href="https://taiga.ink/post/hello-gridea/">
+        <id>https://steamfinder.github.io/post/hello-gridea/</id>
+        <link href="https://steamfinder.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
