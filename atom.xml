@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
     <title>懂点儿啥?</title>
-    <updated>2020-04-14T23:10:38.239Z</updated>
+    <updated>2020-04-15T00:07:49.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://steamfinder.github.io/images/avatar.png</logo>
     <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 懂点儿啥?</rights>
+    <entry>
+        <title type="html"><![CDATA[本站未来规划]]></title>
+        <id>https://steamfinder.github.io/post/plans/</id>
+        <link href="https://steamfinder.github.io/post/plans/">
+        </link>
+        <updated>2020-04-15T00:05:04.000Z</updated>
+        <content type="html"><![CDATA[<p>即将完成：2020.4.15 部署CloudFlare CDN加速<br>
+未来规划：针对社会热点事件发表个人分析见解，偶尔写一些教程</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇文章]]></title>
         <id>https://steamfinder.github.io/post/di-yi-pian-wen-zhang/</id>
