@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://taiga.ink</id>
     <title>懂点儿啥?</title>
-    <updated>2020-04-15T03:50:25.224Z</updated>
+    <updated>2020-04-15T03:51:43.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://taiga.ink"/>
     <link rel="self" href="https://taiga.ink/atom.xml"/>
@@ -27,47 +27,6 @@
 <p>不了解这款游戏，只是用自己以前开发别的游戏的经验来企图新瓶子装旧酒。我的世界爆火是因为玩法新颖，社区内容质量高，加之主播推动，既然玩法新颖，社区内容质量高，就不能用传统的网游发展模式来衡量。这也是我的世界中国版由众望所归到万人唾弃的原因。网易现在正在试图改变，那我们也只能希望他能做出实质性的改变。</p>
 <p>Hypixel中国服务器停服，意料之中。首先Hypixel团队一开始签订三年的合同就代表他们也是持观望态度。但Hypixel中国服务器外挂泛滥，玩家抱怨不断，自然氪金者数量下降，赚不着钱。企业的根本目标是获利，他们是经济组织，不是慈善组织，既然赚不到钱，那么关服很正常，阴谋论自然也站不住脚。</p>
 <p>网易续约我的世界，说明微软和MOJANG还是比较认可网易的，网易也在向好的方面发展，希望网易能带动我的世界走出流量低谷，实现“文艺复兴”。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本站未来规划]]></title>
-        <id>https://taiga.ink/post/plans/</id>
-        <link href="https://taiga.ink/post/plans/">
-        </link>
-        <updated>2020-04-15T00:05:04.000Z</updated>
-        <content type="html"><![CDATA[<p>即将完成：2020.4.15 部署CloudFlare CDN加速<br>
-未来规划：针对社会热点事件发表个人分析见解，偶尔写一些教程</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://taiga.ink/post/about/</id>
-        <link href="https://taiga.ink/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>懂点儿啥？分享我个人的时评！</p>
-</blockquote>
-<h2 id="关于本站">关于本站</h2>
-<p>每当谈论天下大事，我们或多或少都受到媒体，朋友，家长，老师，公知，带路党等的影响<br>
-<strong>我们独立思考了吗？</strong><br>
-媒体和他人等不能决定你怎么思考，而能决定你思考什么，即提前给你设置了“思考议程”<br>
-21世纪，我们的社会高速发展，信息化，全球化，世界多极化和一系列的世界面貌改变，都印证的我们所处于“百年未有之大变局”。更不能盲从媒体，一味的“从众”，更多的，我们要有自己的独立思考。<br>
-独立思考不是从众，更不是“众人皆醉我独醒”，而是在拥有良好的价值观，人生观，世界观的前提下，<br>
-在爱国的基础上进行思考。<br>
-没有绝对客观，绝对客观也是百害无穷<br>
-本博客发表我个人的见解，各位可以跟随我的文章，充实自己，并且进行思考。</p>
-<h2 id="博主是谁">博主是谁</h2>
-<p>SteamFinder<br>
-衡水二中在读学生<br>
-新高考纯文（历史-地理-政治） 即文科生</p>
-<h2 id="兴趣爱好">兴趣爱好</h2>
-<p>关心国内外大事 打游戏 看番剧 钻研电脑 偶尔玩玩C++<br>
-##为什么是文科<br>
-一开始我的梦想是阿里等企业，但我发现理科我真的烦，对文科的喜爱让我选择了他<br>
-许多人说学好数理化，走遍全天下，但我认为在当今的时代下，学好数理化不够，当今生存问题早已被解决，而目前世界暗流涌动，没有理论保护自己也只能沦为被人利用的棋子。</p>
-<h2 id="联系我呀">联系我呀</h2>
-<p>steamfinder#foxmail.com</p>
 ]]></content>
     </entry>
 </feed>
