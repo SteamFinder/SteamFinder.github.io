@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://steamfinder.github.io</id>
     <title>大河墨迹 - 每天一篇时评(￣3￣)</title>
-    <updated>2020-04-16T12:43:09.708Z</updated>
+    <updated>2020-04-16T12:44:05.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://steamfinder.github.io"/>
+    <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
     <subtitle>懂点儿啥?真懂还是被带节奏？本小站的时评可能会让你有所收获。大河墨迹，傲娇又可爱的时评小网站！</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://steamfinder.github.io/images/avatar.png</logo>
+    <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 大河墨迹 - 每天一篇时评(￣3￣)</rights>
     <entry>
         <title type="html"><![CDATA[洋人嘲讽我唯唯诺诺，国人反讽我重拳出击]]></title>
-        <id>http://localhost:4000/post/WeShouldAttackEnemiesOrNot/</id>
-        <link href="http://localhost:4000/post/WeShouldAttackEnemiesOrNot/">
+        <id>https://steamfinder.github.io/post/WeShouldAttackEnemiesOrNot/</id>
+        <link href="https://steamfinder.github.io/post/WeShouldAttackEnemiesOrNot/">
         </link>
         <updated>2020-04-15T23:48:31.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网易代理续约与Hypixel中国停服]]></title>
-        <id>http://localhost:4000/post/NeteaseAndHypixelShutDown/</id>
-        <link href="http://localhost:4000/post/NeteaseAndHypixelShutDown/">
+        <id>https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/</id>
+        <link href="https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/">
         </link>
         <updated>2020-04-15T03:28:05.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
