@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
-    <title>大河墨迹</title>
-    <updated>2020-04-16T09:49:12.990Z</updated>
+    <title>大河墨迹 - 每天一篇时评(￣3￣)</title>
+    <updated>2020-04-16T12:22:24.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
     <subtitle>懂点儿啥?真懂还是被带节奏？本小站的时评可能会让你有所收获。大河墨迹，傲娇又可爱的时评小网站！</subtitle>
     <logo>https://steamfinder.github.io/images/avatar.png</logo>
     <icon>https://steamfinder.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 大河墨迹</rights>
+    <rights>All rights reserved 2020, 大河墨迹 - 每天一篇时评(￣3￣)</rights>
     <entry>
         <title type="html"><![CDATA[洋人嘲讽我唯唯诺诺，国人反讽我重拳出击]]></title>
         <id>https://steamfinder.github.io/post/WeShouldAttackEnemiesOrNot/</id>
