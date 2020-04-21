@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-04-21T11:41:04.211Z</updated>
+    <updated>2020-04-21T22:35:43.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://steamfinder.github.io/images/avatar.png</logo>
     <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 大河墨迹-每日时评</rights>
+    <entry>
+        <title type="html"><![CDATA[本站提供免费v2ray]]></title>
+        <id>https://steamfinder.github.io/post/ben-zhan-ti-gong-mian-fei-v2ray/</id>
+        <link href="https://steamfinder.github.io/post/ben-zhan-ti-gong-mian-fei-v2ray/">
+        </link>
+        <updated>2020-04-21T22:34:22.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>附地址和链接<br>
+<code>vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV92MnJheS50YWlnYS5pbmsiLAoiYWRkIjogInYycmF5LnRhaWdhLmluayIsCiJwb3J0IjogIjQ0MyIsCiJpZCI6ICI1ZGFlMDQyYy02YWRlLTRlNzQtYmIwMi02Yzk4MTBjOTViMzQiLAoiYWlkIjogIjIzMyIsCiJuZXQiOiAid3MiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAidjJyYXkudGFpZ2EuaW5rIiwKInBhdGgiOiAiLyIsCiJ0bHMiOiAidGxzIgp9Cg==</code><br>
+<a href="https://img.noobyy.com/apps/V2rayN.rar" taiget="_blank">客户端下载</a></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pandownload作者被抓，资本割菜何时了，网友白嫖几时休？]]></title>
         <id>https://steamfinder.github.io/post/pandownload-zuo-zhe-bei-zhua-zi-ben-ge-cai-he-shi-liao-wang-you-bai-piao-ji-shi-xiu/</id>
