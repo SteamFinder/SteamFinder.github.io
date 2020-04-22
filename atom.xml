@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-04-22T22:43:24.060Z</updated>
+    <updated>2020-04-22T22:44:30.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
@@ -16,7 +16,12 @@
         <link href="https://steamfinder.github.io/post/jsdelivr-cdn-ce-shi/">
         </link>
         <updated>2020-04-22T22:35:27.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://steamfinder.github.io/post-images/1587595394314.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://steamfinder.github.io/post-images/1587595394314.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595445282.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595449271.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595453459.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595459907.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595465131.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
