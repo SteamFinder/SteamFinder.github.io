@@ -455,7 +455,7 @@ a:active {
 .markdown h2 {
   color: #444;
   font-size: 1.4em;
-  border-image: url('https://i.loli.net/2018/10/01/5bb0fd8197c74.png') 0 100 0 0;
+  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/5bb0fd8197c74.png') 0 100 0 0;
   border-right: 1.33em solid;
   margin-left: -0.1em;
   display: inline;
@@ -465,7 +465,7 @@ a:active {
 .markdown h3 {
   color: #444;
   font-size: 1.2em;
-  border-image: url('https://i.loli.net/2018/10/01/5bb0fe403b964.png') 0 100 0 0;
+  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/5bb0fe403b964.png') 0 100 0 0;
   border-right: 1.33em solid;
   margin-left: -0.1em;
   display: inline;
@@ -1305,8 +1305,8 @@ a:active {
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../media/fonts/fontawesome-webfont.eot');
-  src: url('../media/fonts/fontawesome-webfont.eot') format('embedded-opentype'), url('../media/fonts/fontawesome-webfont.woff2') format('woff2'), url('../media/fonts/fontawesome-webfont.woff') format('woff'), url('../media/fonts/fontawesome-webfont.ttf') format('truetype'), url('../media/fonts/fontawesome-webfont.svg') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/media/fonts/fontawesome-webfont.eot');
+  src: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/media/fonts/fontawesome-webfont.eot') format('embedded-opentype'), url('../media/fonts/fontawesome-webfont.woff2') format('woff2'), url('../media/fonts/fontawesome-webfont.woff') format('woff'), url('../media/fonts/fontawesome-webfont.ttf') format('truetype'), url('../media/fonts/fontawesome-webfont.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
