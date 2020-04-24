@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://taiga.ink</id>
+    <id>https://steamfinder.github.io</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-04-24T23:09:34.131Z</updated>
+    <updated>2020-04-24T23:10:50.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://taiga.ink"/>
-    <link rel="self" href="https://taiga.ink/atom.xml"/>
+    <link rel="alternate" href="https://steamfinder.github.io"/>
+    <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
     <subtitle>懂点儿啥?真懂还是被带节奏？本小站的时评可能会让你有所收获。大河墨迹，傲娇又可爱的时评小网站！</subtitle>
-    <logo>https://taiga.ink/images/avatar.png</logo>
-    <icon>https://taiga.ink/favicon.ico</icon>
+    <logo>https://steamfinder.github.io/images/avatar.png</logo>
+    <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 大河墨迹-每日时评</rights>
     <entry>
         <title type="html"><![CDATA[Jsdelivr CDN测试]]></title>
-        <id>https://taiga.ink/post/TestJsdelivrCDN/</id>
-        <link href="https://taiga.ink/post/TestJsdelivrCDN/">
+        <id>https://steamfinder.github.io/post/TestJsdelivrCDN/</id>
+        <link href="https://steamfinder.github.io/post/TestJsdelivrCDN/">
         </link>
         <updated>2020-04-22T22:35:27.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://taiga.ink/post-images/1587595394314.jpg" alt="" loading="lazy"><br>
-<img src="https://taiga.ink/post-images/1587595445282.jpg" alt="" loading="lazy"><br>
-<img src="https://taiga.ink/post-images/1587595449271.jpg" alt="" loading="lazy"><br>
-<img src="https://taiga.ink/post-images/1587595453459.jpg" alt="" loading="lazy"><br>
-<img src="https://taiga.ink/post-images/1587595459907.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://steamfinder.github.io/post-images/1587595394314.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595445282.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595449271.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595453459.jpg" alt="" loading="lazy"><br>
+<img src="https://steamfinder.github.io/post-images/1587595459907.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pandownload作者被抓，资本割菜何时了，网友白嫖几时休？]]></title>
-        <id>https://taiga.ink/post/Pandownload_VS_Baidu/</id>
-        <link href="https://taiga.ink/post/Pandownload_VS_Baidu/">
+        <id>https://steamfinder.github.io/post/Pandownload_VS_Baidu/</id>
+        <link href="https://steamfinder.github.io/post/Pandownload_VS_Baidu/">
         </link>
         <updated>2020-04-18T13:24:53.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -57,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[洋人嘲讽我唯唯诺诺，国人反讽我重拳出击]]></title>
-        <id>https://taiga.ink/post/WeShouldAttackEnemiesOrNot/</id>
-        <link href="https://taiga.ink/post/WeShouldAttackEnemiesOrNot/">
+        <id>https://steamfinder.github.io/post/WeShouldAttackEnemiesOrNot/</id>
+        <link href="https://steamfinder.github.io/post/WeShouldAttackEnemiesOrNot/">
         </link>
         <updated>2020-04-15T23:48:31.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网易代理续约与Hypixel中国停服]]></title>
-        <id>https://taiga.ink/post/NeteaseAndHypixelShutDown/</id>
-        <link href="https://taiga.ink/post/NeteaseAndHypixelShutDown/">
+        <id>https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/</id>
+        <link href="https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/">
         </link>
         <updated>2020-04-15T03:28:05.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
