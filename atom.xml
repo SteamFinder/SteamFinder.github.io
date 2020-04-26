@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://taiga.ink</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-04-26T06:10:22.366Z</updated>
+    <updated>2020-04-26T06:12:36.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://taiga.ink"/>
     <link rel="self" href="https://taiga.ink/atom.xml"/>
