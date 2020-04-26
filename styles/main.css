@@ -455,7 +455,7 @@ a:active {
 .markdown h2 {
   color: #444;
   font-size: 1.4em;
-  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/5bb0fd8197c74.webp') 0 100 0 0;
+  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io/images/5bb0fd8197c74.webp') 0 100 0 0;
   border-right: 1.33em solid;
   margin-left: -0.1em;
   display: inline;
@@ -465,7 +465,7 @@ a:active {
 .markdown h3 {
   color: #444;
   font-size: 1.2em;
-  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io@master/images/5bb0fe403b964.webp') 0 100 0 0;
+  border-image: url('https://cdn.jsdelivr.net/gh/steamfinder/steamfinder.github.io/images/5bb0fe403b964.webp') 0 100 0 0;
   border-right: 1.33em solid;
   margin-left: -0.1em;
   display: inline;
