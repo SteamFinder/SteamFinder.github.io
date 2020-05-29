@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://taiga.ink</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-05-29T13:48:51.991Z</updated>
+    <updated>2020-05-29T13:52:02.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://taiga.ink"/>
+    <link rel="self" href="https://taiga.ink/atom.xml"/>
     <subtitle>懂点儿啥?真懂还是被带节奏？本小站的时评可能会让你有所收获。大河墨迹，傲娇又可爱的时评小网站！</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://taiga.ink/images/avatar.png</logo>
+    <icon>https://taiga.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, 大河墨迹-每日时评</rights>
     <entry>
         <title type="html"><![CDATA[Mr.Gの二次元新番放送屋🎥-入群须知]]></title>
-        <id>http://localhost:4000/post/group-q&amp;a-links/</id>
-        <link href="http://localhost:4000/post/group-q&amp;a-links/">
+        <id>https://taiga.ink/post/group-q&amp;a-links/</id>
+        <link href="https://taiga.ink/post/group-q&amp;a-links/">
         </link>
         <updated>2020-05-29T13:30:47.000Z</updated>
         <content type="html"><![CDATA[<h2 id="qa">Q&amp;A</h2>
 <blockquote>
-<p>注意事项是什么？</p>
+<p><strong>注意事项是什么？</strong></p>
 </blockquote>
 <p>不要白嫖完就跑，交流一下，本群资源不得贩卖转售，仅供交流分享</p>
 <blockquote>
-<p>天气之子高质量资源有啥？</p>
+<p><strong>天气之子高质量资源有啥？</strong></p>
 </blockquote>
 <p>见下文“天气之子资源列表”</p>
 <blockquote>
-<p>4K颜色不对啊！</p>
+<p><strong>4K颜色不对啊！</strong></p>
 </blockquote>
 <p>4K资源下载完成后用PotPlayer播放（自动颜色补偿加完美解码）</p>
 <blockquote>
-<p>群公告复制不了？</p>
+<p><strong>群公告复制不了？</strong></p>
 </blockquote>
 <p>这个页面可以复制</p>
 <blockquote>
-<p>用什么软件下载？</p>
+<p><strong>用什么软件下载？</strong></p>
 </blockquote>
 <p>BT建议用比特彗星，qBT，FDM，迅雷由于其卑鄙的吸血行为被多个服务器屏蔽，速度极慢</p>
-<p><em>看不懂</em>？</p>
+<p>BT下载指引 https://trackerslist.com/#/zh</p>
+<h4 id="看不懂"><em>看不懂？</em></h4>
+<p>比特彗星便携版(已配置 Tracker) https://xiu.lanzous.com/b073c7g4f<br>
+qBT-EE便携版(已配置 Tracker) https://xiu.lanzous.com/b073dnr7g</p>
 <p>选最新的版本</p>
 <h2 id="天气之子资源">天气之子资源</h2>
 <blockquote>
 <p>百度网盘</p>
 </blockquote>
+<p>1080P-32GB和4K-48GB版 <a href="https://pan.baidu.com/s/1og4H10Sf10DT5zM-X8sJ7g">https://pan.baidu.com/s/1og4H10Sf10DT5zM-X8sJ7g</a></p>
 <p>提取码：myys</p>
 <blockquote>
 <p>BT资源</p>
@@ -74,21 +78,21 @@
 <ul>
 <li>2.4GB 6GB版本</li>
 </ul>
-<p><strong>内嵌</strong></p>
+<p>内嵌</p>
 <ul>
 <li>32GB 48GB版本</li>
 </ul>
-<p><strong>内挂</strong></p>
+<p>内挂</p>
 <ul>
 <li>12.8GB-Reinforce压制版 173GB原盘</li>
 </ul>
-<p><strong>可外挂</strong> 网络上有匹配字幕</p>
+<p>可外挂 网络上有匹配字幕</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[致台湾同胞]]></title>
-        <id>http://localhost:4000/post/To_Taiwan/</id>
-        <link href="http://localhost:4000/post/To_Taiwan/">
+        <id>https://taiga.ink/post/To_Taiwan/</id>
+        <link href="https://taiga.ink/post/To_Taiwan/">
         </link>
         <updated>2020-04-29T02:48:01.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -103,8 +107,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Pandownload作者被抓，资本割菜何时了，网友白嫖几时休？]]></title>
-        <id>http://localhost:4000/post/Pandownload_VS_Baidu/</id>
-        <link href="http://localhost:4000/post/Pandownload_VS_Baidu/">
+        <id>https://taiga.ink/post/Pandownload_VS_Baidu/</id>
+        <link href="https://taiga.ink/post/Pandownload_VS_Baidu/">
         </link>
         <updated>2020-04-18T13:24:53.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -135,8 +139,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[洋人嘲讽我唯唯诺诺，国人反讽我重拳出击]]></title>
-        <id>http://localhost:4000/post/WeShouldAttackEnemiesOrNot/</id>
-        <link href="http://localhost:4000/post/WeShouldAttackEnemiesOrNot/">
+        <id>https://taiga.ink/post/WeShouldAttackEnemiesOrNot/</id>
+        <link href="https://taiga.ink/post/WeShouldAttackEnemiesOrNot/">
         </link>
         <updated>2020-04-15T23:48:31.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -165,8 +169,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网易代理续约与Hypixel中国停服]]></title>
-        <id>http://localhost:4000/post/NeteaseAndHypixelShutDown/</id>
-        <link href="http://localhost:4000/post/NeteaseAndHypixelShutDown/">
+        <id>https://taiga.ink/post/NeteaseAndHypixelShutDown/</id>
+        <link href="https://taiga.ink/post/NeteaseAndHypixelShutDown/">
         </link>
         <updated>2020-04-15T03:28:05.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
