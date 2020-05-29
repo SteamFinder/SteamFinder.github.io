@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://taiga.ink</id>
     <title>大河墨迹-每日时评</title>
-    <updated>2020-05-24T03:14:23.794Z</updated>
+    <updated>2020-05-29T13:46:03.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://taiga.ink"/>
     <link rel="self" href="https://taiga.ink/atom.xml"/>
@@ -10,6 +10,85 @@
     <logo>https://taiga.ink/images/avatar.png</logo>
     <icon>https://taiga.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, 大河墨迹-每日时评</rights>
+    <entry>
+        <title type="html"><![CDATA[Mr.Gの二次元新番放送屋🎥-入群须知]]></title>
+        <id>https://taiga.ink/post/group-q&amp;a-links/</id>
+        <link href="https://taiga.ink/post/group-q&amp;a-links/">
+        </link>
+        <updated>2020-05-29T13:30:47.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="qa">Q&amp;A</h2>
+<blockquote>
+<p>注意事项是什么？</p>
+</blockquote>
+<p>不要白嫖完就跑，交流一下，本群资源不得贩卖转售，仅供交流分享</p>
+<blockquote>
+<p>天气之子高质量资源有啥？</p>
+</blockquote>
+<p>见下文“天气之子资源列表”</p>
+<blockquote>
+<p>4K颜色不对啊！</p>
+</blockquote>
+<p>4K资源下载完成后用PotPlayer播放（自动颜色补偿加完美解码）</p>
+<blockquote>
+<p>群公告复制不了？</p>
+</blockquote>
+<p>这个页面可以复制</p>
+<blockquote>
+<p>用什么软件下载？</p>
+</blockquote>
+<p>BT建议用比特彗星，qBT，FDM，迅雷由于其卑鄙的吸血行为被多个服务器屏蔽，速度极慢</p>
+<p>[]: https://trackerslist.com/#/zh	&quot;BT下载指引&quot;</p>
+<p><em>看不懂</em>？</p>
+<p>[]: https://xiu.lanzous.com/b073c7g4f	&quot;比特彗星便携版(已配置 Tracker)&quot;<br>
+[]: https://xiu.lanzous.com/b073dnr7g	&quot;qBT-EE便携版(已配置 Tracker)&quot;</p>
+<p>选最新的版本</p>
+<h2 id="天气之子资源">天气之子资源</h2>
+<blockquote>
+<p>百度网盘</p>
+</blockquote>
+<p>[]: https://pan.baidu.com/s/1og4H10Sf10DT5zM-X8sJ7g	&quot;1080P-32GB和4K-48GB版&quot;</p>
+<p>提取码：myys</p>
+<blockquote>
+<p>BT资源</p>
+</blockquote>
+<ul>
+<li>【不推荐】173GB[原盘-BDMV]天气之子原盘</li>
+</ul>
+<p>magnet:?xt=urn:btih:c8726ccf122b4f535ef5408a765e3fdb0fbbd6a0</p>
+<ul>
+<li>【推荐】32GB[1080P-Remux]天气之子1080P蓝光原盘简中日配</li>
+</ul>
+<p>magnet:?xt=urn:btih:a61d8410749087b55c9fd6daa7abaee42a811bf6</p>
+<ul>
+<li>【推荐】48GB[4k-Remux]天气之子4K蓝光原盘简中日配</li>
+</ul>
+<p>magnet:?xt=urn:btih:d2474bfed7e31f6dcab02b00987d8b5cc7006d68</p>
+<ul>
+<li>【推荐】12.8GB[ReinForce] 著名压制组，兼容体积与画质的极佳平衡，下载速度快</li>
+</ul>
+<p>magnet:?xt=urn:btih:2d53c1c28194df345dd41b1179bd28346f2c4342</p>
+<blockquote>
+<p>2.4GB，6GB版本</p>
+</blockquote>
+<p>请见群文件</p>
+<h2 id="字幕详情">字幕详情</h2>
+<blockquote>
+<p>所有影片均有字幕资源</p>
+</blockquote>
+<ul>
+<li>2.4GB 6GB版本</li>
+</ul>
+<p>内嵌</p>
+<ul>
+<li>32GB 48GB版本</li>
+</ul>
+<p>内挂</p>
+<ul>
+<li>12.8GB-Reinforce压制版 173GB原盘</li>
+</ul>
+<p>可外挂 网络上有匹配字幕</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致台湾同胞]]></title>
         <id>https://taiga.ink/post/To_Taiwan/</id>
